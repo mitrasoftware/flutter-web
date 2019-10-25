@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: MyHomePage(),
-      title: "Flutter for web",
+      title: "Flutter second commit",
       
     );
   }
@@ -26,7 +26,7 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text("App bar")
       ),
       body: Container(
-        child: Text("welcome"),
+        child: Text("data"),
       ),
       
     );
